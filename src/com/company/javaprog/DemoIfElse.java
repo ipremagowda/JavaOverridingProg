@@ -2,7 +2,7 @@ package com.company.javaprog;
 //If else Program
 public class DemoIfElse {
         public static void main(String args[]) {
-            int a = 80, b = 30;
+            int a = 20, b = 30;
 
             if (b > a)
             {
